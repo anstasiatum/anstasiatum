@@ -13,3 +13,4 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" width="40" alt="Java" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" height="40" width="40"  alt="Selenium" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" height="40" width="40"  alt="JUnit5" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" height="40" width="40"  alt="Postman" />
