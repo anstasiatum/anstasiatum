@@ -1,5 +1,5 @@
 ## Hi there 👋 My name is Anastasia Tumakova
-###I am a QA Engineer from Saint-Petersburg, Russia
+### I am a QA Engineer from Saint-Petersburg, Russia
 
 - 🌱 I’m currently learning automation and analytics
 - 📫 How to reach me: 
