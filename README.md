@@ -55,14 +55,14 @@
         <br>LevelUp: Java Developer Start
       </td>
     </tr>
-    <tr>
-      <td">
-        <a href="https://qa.guru/java" target="_blank">
-          <img src="readmeIcons/qa_guru.png" width="48" height="48" alt="LevelUp" />
+       <tr>
+      <td>
+        <a href="https://levelp.ru/courses/programmirovanie/basics-of-programming-in-the-java-language-level-1/" target="_blank">
+          <img src="readmeIcons/levelUp.jpg" width="48" height="48" alt="LevelUp" />
         </a>
       </td>
       <td>
-        <br>LevelUp: QA Guru: Java automation
+        <br>LevelUp: Java Developer Start
       </td>
     </tr>
   </table>
