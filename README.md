@@ -62,7 +62,7 @@
         </a>
       </td>
       <td>
-        <br>LevelUp: QA Guru: Java Automation
+        <br>QA Guru: Java Automation
       </td>
     </tr>
   </table>
