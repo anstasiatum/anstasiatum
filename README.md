@@ -9,8 +9,44 @@
 ---
   ### Stack:
   <p align="left">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" width="40" alt="Java" />
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" height="40" width="40"  alt="Selenium" />
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" height="40" width="40"  alt="JUnit5" />
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" height="40" width="40"  alt="Postman" />
+   <img align="center" src="readmeIcons/java-original-wordmark.svg" height="40" width="40" alt="Java 21" />
+   <img align="center" src="readmeIcons/selenium-original.svg" height="40" width="40"  alt="Selenium" />
+   <img align="center" src="readmeIcons/Selenide.svg" height="40" width="40"  alt="Selenide" />  
+   <img align="center" src="readmeIcons/rest-assured-logo.png" height="40" width="40"  alt="RestAssured" />  
+   <img align="center" src="readmeIcons/junit-original-wordmark.svg" height="40" width="40"  alt="JUnit5" />
+   <img align="center" src="readmeIcons/Mockito_Logo.png" height="40" width="40"  alt="Mockito" />
+   <img align="center" src="readmeIcons/postman-plain.svg" height="40" width="40"  alt="Postman" />
+   <img align="center" src="readmeIcons/charles-logo.jpg" height="40" width="40"  alt="Charles" />
+   <img align="center" src="readmeIcons/elastic-kibana.svg" height="40" width="40"  alt="Kibana" />
+   <img align="center" src="readmeIcons/Allure.svg" height="40" width="40"  alt="AllureReport" />
   </p>
+
+### Education:
+
+
+<div align="center">
+  <table>
+    <tr>
+      <!-- First row -->
+      <td align="center" width="110">
+        <a href="https://english.spbstu.ru/" target="_blank">
+          <img src="readmeIcons/polytech.png" width="48" height="48" alt="Java" />
+        </a>
+      </td>
+      <td align="center" width="110">
+        <br> Peter the Great St.Petersburg Polytechnic University, Linguistics
+      </td>
+    </tr>
+    <tr>
+      <!-- Second row -->
+      </td>
+      <td align="center" width="110">
+        <a href="https://levelp.ru/courses/testirovanie/the-testing-junior-test-engineer/" target="_blank">
+          <img src="readmemedia/Allure.svg" width="48" height="48" alt="Allure" />
+        </a>
+      </td>
+      <td align="center" width="110">
+        <br>LevelUp: Junior QA Engineeer
+    </tr>
+  </table>
+</div>
