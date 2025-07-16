@@ -43,7 +43,7 @@
         </a>
       </td>
       <td>
-        <br>LevelUp: Junior QA Engineeer
+        <br>LevelUp: Junior QA Engineer
     </tr>
     <tr>
       <td>
