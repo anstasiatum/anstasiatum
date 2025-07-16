@@ -57,12 +57,12 @@
     </tr>
        <tr>
       <td>
-        <a href="https://levelp.ru/courses/programmirovanie/basics-of-programming-in-the-java-language-level-1/" target="_blank">
-          <img src="readmeIcons/levelUp.jpg" width="48" height="48" alt="LevelUp" />
+        <a href="https://qa.guru/java" target="_blank">
+          <img src="readmeIcons/qa_guru.png" width="48" height="48" alt="QAGuru" />
         </a>
       </td>
       <td>
-        <br>LevelUp: Java Developer Start
+        <br>LevelUp: QA Guru: Java Automation
       </td>
     </tr>
   </table>
