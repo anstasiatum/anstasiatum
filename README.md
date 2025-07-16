@@ -28,24 +28,24 @@
   <table>
     <tr>
       <!-- First row -->
-      <td align="center" width="110">
+      <td align="center">
         <a href="https://english.spbstu.ru/" target="_blank">
           <img src="readmeIcons/polytech.png" width="48" height="48" alt="Polytech" />
         </a>
       </td>
-      <td align="center" width="110">
+      <td align="center">
         <br> Peter the Great St.Petersburg Polytechnic University, Linguistics
       </td>
     </tr>
     <tr>
       <!-- Second row -->
       </td>
-      <td align="center" width="110">
+      <td align="center">
         <a href="https://levelp.ru/courses/testirovanie/the-testing-junior-test-engineer/" target="_blank">
           <img src="readmeIcons/levelUp.jpg" width="48" height="48" alt="LevelUp" />
         </a>
       </td>
-      <td align="center" width="110">
+      <td align="center">
         <br>LevelUp: Junior QA Engineeer
     </tr>
   </table>
