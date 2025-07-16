@@ -24,10 +24,10 @@
 ### Education:
 
 
-<div align="center">
+<div>
   <table>
     <tr>
-      <td align="center">
+      <td>
         <a href="https://english.spbstu.ru/" target="_blank">
           <img src="readmeIcons/polytech.png" width="48" height="48" alt="Polytech" />
         </a>
@@ -37,27 +37,25 @@
       </td>
     </tr>
     <tr>
-      </td>
       <td>
         <a href="https://levelp.ru/courses/testirovanie/the-testing-junior-test-engineer/" target="_blank">
           <img src="readmeIcons/levelUp.jpg" width="48" height="48" alt="LevelUp" />
         </a>
       </td>
-      <td align="center">
+      <td>
         <br>LevelUp: Junior QA Engineeer
     </tr>
-          <tr>
-      </td>
+    <tr>
       <td>
         <a href="https://levelp.ru/courses/programmirovanie/basics-of-programming-in-the-java-language-level-1/" target="_blank">
           <img src="readmeIcons/levelUp.jpg" width="48" height="48" alt="LevelUp" />
         </a>
       </td>
-      <td align="center">
+      <td>
         <br>LevelUp: Java Developer Start
-    </tr>
-          <tr>
       </td>
+    </tr>
+    <tr>
       <td">
         <a href="https://qa.guru/java" target="_blank">
           <img src="readmeIcons/qa_guru.png" width="48" height="48" alt="LevelUp" />
@@ -65,6 +63,7 @@
       </td>
       <td>
         <br>LevelUp: QA Guru: Java automation
+      </td>
     </tr>
   </table>
 </div>
