@@ -30,7 +30,7 @@
       <!-- First row -->
       <td align="center" width="110">
         <a href="https://english.spbstu.ru/" target="_blank">
-          <img src="readmeIcons/polytech.png" width="48" height="48" alt="Java" />
+          <img src="readmeIcons/polytech.png" width="48" height="48" alt="Polytech" />
         </a>
       </td>
       <td align="center" width="110">
@@ -42,7 +42,7 @@
       </td>
       <td align="center" width="110">
         <a href="https://levelp.ru/courses/testirovanie/the-testing-junior-test-engineer/" target="_blank">
-          <img src="readmemedia/Allure.svg" width="48" height="48" alt="Allure" />
+          <img src="readmeIcons/levelUp.jpg" width="48" height="48" alt="LevelUp" />
         </a>
       </td>
       <td align="center" width="110">
